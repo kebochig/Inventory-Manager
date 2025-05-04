@@ -1,0 +1,318 @@
+,date,Month,HS4,Description_HS4,volume,value_USD,prev_value_USD,value_MoM_pct_change,holiday,weather_season,tourism_event_count,back_to_school
+0,2022-01-01,January,402,"Milk and cream, concentrated or sweetened",63,7164607.81,3612280.7,0.98,1,Harmattan (Dry),0,1
+1,2022-02-01,February,402,"Milk and cream, concentrated or sweetened",71,10901514.78,7164607.81,0.52,0,Harmattan (Dry),1,0
+2,2022-03-01,March,402,"Milk and cream, concentrated or sweetened",64,5823930.76,10901514.78,-0.47,1,Hot/Dry Season,3,0
+3,2022-04-01,April,402,"Milk and cream, concentrated or sweetened",68,6135675.67,5823930.76,0.05,1,Major Rainy Season,1,0
+4,2022-05-01,May,402,"Milk and cream, concentrated or sweetened",60,9046596.3,6135675.67,0.47,1,Major Rainy Season,1,1
+5,2022-06-01,June,402,"Milk and cream, concentrated or sweetened",72,11130098.29,9046596.3,0.23,1,Major Rainy Season,0,0
+6,2022-07-01,July,402,"Milk and cream, concentrated or sweetened",66,11612217.66,11130098.29,0.04,0,Major Rainy Season,0,0
+7,2022-08-01,August,402,"Milk and cream, concentrated or sweetened",73,9771821.530000001,11612217.66,-0.16,1,Major Rainy Season,0,0
+8,2022-09-01,September,402,"Milk and cream, concentrated or sweetened",61,11247970.03,9771821.530000001,0.15,1,Minor Rainy Season,8,1
+9,2022-10-01,October,402,"Milk and cream, concentrated or sweetened",48,5593199.1,11247970.03,-0.5,0,Minor Rainy Season,0,0
+10,2022-11-01,November,402,"Milk and cream, concentrated or sweetened",54,4547923.12,5593199.1,-0.19,0,Minor Rainy Season,0,0
+11,2022-12-01,December,402,"Milk and cream, concentrated or sweetened",47,3612280.7,4547923.12,-0.21,1,Harmattan (Dry),9,0
+12,2022-01-01,January,902,Tea,33,215373.3,280028.91,-0.23,1,Harmattan (Dry),0,1
+13,2022-02-01,February,902,Tea,36,423050.69000000006,215373.3,0.96,0,Harmattan (Dry),1,0
+14,2022-03-01,March,902,Tea,32,369341.06,423050.69000000006,-0.13,1,Hot/Dry Season,3,0
+15,2022-04-01,April,902,Tea,50,209560.94,369341.06,-0.43,1,Major Rainy Season,1,0
+16,2022-05-01,May,902,Tea,35,787359.07,209560.94,2.76,1,Major Rainy Season,1,1
+17,2022-06-01,June,902,Tea,30,508778.6,787359.07,-0.35,1,Major Rainy Season,0,0
+18,2022-07-01,July,902,Tea,38,238187.33000000002,508778.6,-0.53,0,Major Rainy Season,0,0
+19,2022-08-01,August,902,Tea,33,444346.92,238187.33000000002,0.87,1,Major Rainy Season,0,0
+20,2022-09-01,September,902,Tea,34,174775.32,444346.92,-0.61,1,Minor Rainy Season,8,1
+21,2022-10-01,October,902,Tea,31,199444.74000000002,174775.32,0.14,0,Minor Rainy Season,0,0
+22,2022-11-01,November,902,Tea,40,77888.81,199444.74000000002,-0.61,0,Minor Rainy Season,0,0
+23,2022-12-01,December,902,Tea,44,280028.91,77888.81,2.6,1,Harmattan (Dry),9,0
+24,2022-01-01,January,904,"Pepper of the genus piper, capiscum or pimenta, dried, crushed or ground",21,28111.539999999997,351659.30000000005,-0.92,1,Harmattan (Dry),0,1
+25,2022-02-01,February,904,"Pepper of the genus piper, capiscum or pimenta, dried, crushed or ground",24,207888.61,28111.539999999997,6.4,0,Harmattan (Dry),1,0
+26,2022-03-01,March,904,"Pepper of the genus piper, capiscum or pimenta, dried, crushed or ground",22,19659.72,207888.61,-0.91,1,Hot/Dry Season,3,0
+27,2022-04-01,April,904,"Pepper of the genus piper, capiscum or pimenta, dried, crushed or ground",21,163980.48,19659.72,7.34,1,Major Rainy Season,1,0
+28,2022-05-01,May,904,"Pepper of the genus piper, capiscum or pimenta, dried, crushed or ground",16,226331.37999999998,163980.48,0.38,1,Major Rainy Season,1,1
+29,2022-06-01,June,904,"Pepper of the genus piper, capiscum or pimenta, dried, crushed or ground",22,646467.62,226331.37999999998,1.86,1,Major Rainy Season,0,0
+30,2022-07-01,July,904,"Pepper of the genus piper, capiscum or pimenta, dried, crushed or ground",20,26105.88,646467.62,-0.96,0,Major Rainy Season,0,0
+31,2022-08-01,August,904,"Pepper of the genus piper, capiscum or pimenta, dried, crushed or ground",28,287395.1,26105.88,10.01,1,Major Rainy Season,0,0
+32,2022-09-01,September,904,"Pepper of the genus piper, capiscum or pimenta, dried, crushed or ground",21,128194.44,287395.1,-0.55,1,Minor Rainy Season,8,1
+33,2022-10-01,October,904,"Pepper of the genus piper, capiscum or pimenta, dried, crushed or ground",25,287111.87,128194.44,1.24,0,Minor Rainy Season,0,0
+34,2022-11-01,November,904,"Pepper of the genus piper, capiscum or pimenta, dried, crushed or ground",31,390316.67,287111.87,0.36,0,Minor Rainy Season,0,0
+35,2022-12-01,December,904,"Pepper of the genus piper, capiscum or pimenta, dried, crushed or ground",19,351659.30000000005,390316.67,-0.1,1,Harmattan (Dry),9,0
+36,2022-01-01,January,910,"Ginger, saffron, turmeric (curcuma)...curry and other spices",36,62071.02,280535.72,-0.78,1,Harmattan (Dry),0,1
+37,2022-02-01,February,910,"Ginger, saffron, turmeric (curcuma)...curry and other spices",28,148051.95,62071.02,1.39,0,Harmattan (Dry),1,0
+38,2022-03-01,March,910,"Ginger, saffron, turmeric (curcuma)...curry and other spices",34,175146.75,148051.95,0.18,1,Hot/Dry Season,3,0
+39,2022-04-01,April,910,"Ginger, saffron, turmeric (curcuma)...curry and other spices",28,208714.94999999998,175146.75,0.19,1,Major Rainy Season,1,0
+40,2022-05-01,May,910,"Ginger, saffron, turmeric (curcuma)...curry and other spices",30,85998.72,208714.94999999998,-0.59,1,Major Rainy Season,1,1
+41,2022-06-01,June,910,"Ginger, saffron, turmeric (curcuma)...curry and other spices",32,309279.06,85998.72,2.6,1,Major Rainy Season,0,0
+42,2022-07-01,July,910,"Ginger, saffron, turmeric (curcuma)...curry and other spices",31,194426.56,309279.06,-0.37,0,Major Rainy Season,0,0
+43,2022-08-01,August,910,"Ginger, saffron, turmeric (curcuma)...curry and other spices",36,222292.89,194426.56,0.14,1,Major Rainy Season,0,0
+44,2022-09-01,September,910,"Ginger, saffron, turmeric (curcuma)...curry and other spices",33,63348.509999999995,222292.89,-0.72,1,Minor Rainy Season,8,1
+45,2022-10-01,October,910,"Ginger, saffron, turmeric (curcuma)...curry and other spices",36,526495.1,63348.509999999995,7.31,0,Minor Rainy Season,0,0
+46,2022-11-01,November,910,"Ginger, saffron, turmeric (curcuma)...curry and other spices",42,44790.82,526495.1,-0.91,0,Minor Rainy Season,0,0
+47,2022-12-01,December,910,"Ginger, saffron, turmeric (curcuma)...curry and other spices",30,280535.72,44790.82,5.26,1,Harmattan (Dry),9,0
+48,2022-01-01,January,1006,Rice,75,82445779.25999999,54397889.99,0.52,1,Harmattan (Dry),0,1
+49,2022-02-01,February,1006,Rice,65,20268408.22,82445779.25999999,-0.75,0,Harmattan (Dry),1,0
+50,2022-03-01,March,1006,Rice,63,15746510.55,20268408.22,-0.22,1,Hot/Dry Season,3,0
+51,2022-04-01,April,1006,Rice,62,36889133.81,15746510.55,1.34,1,Major Rainy Season,1,0
+52,2022-05-01,May,1006,Rice,55,33210430.64,36889133.81,-0.1,1,Major Rainy Season,1,1
+53,2022-06-01,June,1006,Rice,58,16511763.689999998,33210430.64,-0.5,1,Major Rainy Season,0,0
+54,2022-07-01,July,1006,Rice,57,33686653.93,16511763.689999998,1.04,0,Major Rainy Season,0,0
+55,2022-08-01,August,1006,Rice,62,13287564.66,33686653.93,-0.61,1,Major Rainy Season,0,0
+56,2022-09-01,September,1006,Rice,62,27249625.62,13287564.66,1.05,1,Minor Rainy Season,8,1
+57,2022-10-01,October,1006,Rice,62,34494368.51,27249625.62,0.27,0,Minor Rainy Season,0,0
+58,2022-11-01,November,1006,Rice,70,19264224.84,34494368.51,-0.44,0,Minor Rainy Season,0,0
+59,2022-12-01,December,1006,Rice,72,54397889.99,19264224.84,1.82,1,Harmattan (Dry),9,0
+60,2022-01-01,January,1008,"Buckwheat, millet and canary seed and other cereals, nes",9,6791.969999999999,22906.98,-0.7,1,Harmattan (Dry),0,1
+61,2022-02-01,February,1008,"Buckwheat, millet and canary seed and other cereals, nes",9,23770.129999999997,6791.969999999999,2.5,0,Harmattan (Dry),1,0
+62,2022-03-01,March,1008,"Buckwheat, millet and canary seed and other cereals, nes",8,6402.08,23770.129999999997,-0.73,1,Hot/Dry Season,3,0
+63,2022-04-01,April,1008,"Buckwheat, millet and canary seed and other cereals, nes",9,49457.79,6402.08,6.73,1,Major Rainy Season,1,0
+64,2022-05-01,May,1008,"Buckwheat, millet and canary seed and other cereals, nes",7,2960.69,49457.79,-0.94,1,Major Rainy Season,1,1
+65,2022-06-01,June,1008,"Buckwheat, millet and canary seed and other cereals, nes",14,28697.03,2960.69,8.69,1,Major Rainy Season,0,0
+66,2022-07-01,July,1008,"Buckwheat, millet and canary seed and other cereals, nes",10,27484.89,28697.03,-0.04,0,Major Rainy Season,0,0
+67,2022-08-01,August,1008,"Buckwheat, millet and canary seed and other cereals, nes",7,16051.98,27484.89,-0.42,1,Major Rainy Season,0,0
+68,2022-09-01,September,1008,"Buckwheat, millet and canary seed and other cereals, nes",15,38915.11,16051.98,1.42,1,Minor Rainy Season,8,1
+69,2022-10-01,October,1008,"Buckwheat, millet and canary seed and other cereals, nes",11,19487.170000000002,38915.11,-0.5,0,Minor Rainy Season,0,0
+70,2022-11-01,November,1008,"Buckwheat, millet and canary seed and other cereals, nes",7,7601.1,19487.170000000002,-0.61,0,Minor Rainy Season,0,0
+71,2022-12-01,December,1008,"Buckwheat, millet and canary seed and other cereals, nes",9,22906.98,7601.1,2.01,1,Harmattan (Dry),9,0
+72,2022-01-01,January,1504,"Fats and oils and their fractions, of fish or marine mammals",2,15.49,21.19,-0.27,1,Harmattan (Dry),0,1
+73,2022-02-01,February,1504,"Fats and oils and their fractions, of fish or marine mammals",2,113689.5,15.49,7338.54,0,Harmattan (Dry),1,0
+74,2022-03-01,March,1504,"Fats and oils and their fractions, of fish or marine mammals",2,116907.72,113689.5,0.03,1,Hot/Dry Season,3,0
+75,2022-05-01,May,1504,"Fats and oils and their fractions, of fish or marine mammals",3,77659.36,116907.72,-0.34,1,Major Rainy Season,1,1
+76,2022-07-01,July,1504,"Fats and oils and their fractions, of fish or marine mammals",2,76825.42,77659.36,-0.01,0,Major Rainy Season,0,0
+77,2022-10-01,October,1504,"Fats and oils and their fractions, of fish or marine mammals",1,867.42,76825.42,-0.99,0,Minor Rainy Season,0,0
+78,2022-11-01,November,1504,"Fats and oils and their fractions, of fish or marine mammals",2,109944.3,867.42,125.75,0,Minor Rainy Season,0,0
+79,2022-12-01,December,1504,"Fats and oils and their fractions, of fish or marine mammals",1,21.19,109944.3,-1.0,1,Harmattan (Dry),9,0
+80,2022-01-01,January,1508,Ground-nut oil and its fractions,2,714.8399999999999,1613.22,-0.56,1,Harmattan (Dry),0,1
+81,2022-02-01,February,1508,Ground-nut oil and its fractions,1,98.22,714.8399999999999,-0.86,0,Harmattan (Dry),1,0
+82,2022-03-01,March,1508,Ground-nut oil and its fractions,3,379.49,98.22,2.86,1,Hot/Dry Season,3,0
+83,2022-04-01,April,1508,Ground-nut oil and its fractions,2,3766.4300000000003,379.49,8.92,1,Major Rainy Season,1,0
+84,2022-05-01,May,1508,Ground-nut oil and its fractions,2,2749.87,3766.4300000000003,-0.27,1,Major Rainy Season,1,1
+85,2022-06-01,June,1508,Ground-nut oil and its fractions,4,2088.25,2749.87,-0.24,1,Major Rainy Season,0,0
+86,2022-07-01,July,1508,Ground-nut oil and its fractions,1,147.64,2088.25,-0.93,0,Major Rainy Season,0,0
+87,2022-08-01,August,1508,Ground-nut oil and its fractions,5,4082.05,147.64,26.65,1,Major Rainy Season,0,0
+88,2022-09-01,September,1508,Ground-nut oil and its fractions,3,2372.99,4082.05,-0.42,1,Minor Rainy Season,8,1
+89,2022-10-01,October,1508,Ground-nut oil and its fractions,5,1666.3,2372.99,-0.3,0,Minor Rainy Season,0,0
+90,2022-11-01,November,1508,Ground-nut oil and its fractions,3,215.0,1666.3,-0.87,0,Minor Rainy Season,0,0
+91,2022-12-01,December,1508,Ground-nut oil and its fractions,4,1613.22,215.0,6.5,1,Harmattan (Dry),9,0
+92,2022-01-01,January,1511,Palm oil and its fractions,33,30491822.85,23187106.580000002,0.32,1,Harmattan (Dry),0,1
+93,2022-02-01,February,1511,Palm oil and its fractions,30,19158257.5,30491822.85,-0.37,0,Harmattan (Dry),1,0
+94,2022-03-01,March,1511,Palm oil and its fractions,27,16001923.68,19158257.5,-0.16,1,Hot/Dry Season,3,0
+95,2022-04-01,April,1511,Palm oil and its fractions,31,14762287.919999998,16001923.68,-0.08,1,Major Rainy Season,1,0
+96,2022-05-01,May,1511,Palm oil and its fractions,24,24180752.639999997,14762287.919999998,0.64,1,Major Rainy Season,1,1
+97,2022-06-01,June,1511,Palm oil and its fractions,32,6979080.87,24180752.639999997,-0.71,1,Major Rainy Season,0,0
+98,2022-07-01,July,1511,Palm oil and its fractions,29,7378445.5,6979080.87,0.06,0,Major Rainy Season,0,0
+99,2022-08-01,August,1511,Palm oil and its fractions,31,5432901.44,7378445.5,-0.26,1,Major Rainy Season,0,0
+100,2022-09-01,September,1511,Palm oil and its fractions,33,8665034.49,5432901.44,0.59,1,Minor Rainy Season,8,1
+101,2022-10-01,October,1511,Palm oil and its fractions,40,14651580.3,8665034.49,0.69,0,Minor Rainy Season,0,0
+102,2022-11-01,November,1511,Palm oil and its fractions,37,23646171.92,14651580.3,0.61,0,Minor Rainy Season,0,0
+103,2022-12-01,December,1511,Palm oil and its fractions,50,23187106.580000002,23646171.92,-0.02,1,Harmattan (Dry),9,0
+104,2022-01-01,January,1513,"Coconut (copra), palm kernel or babassu oil and their fractions",5,8793.2,8907.6,-0.01,1,Harmattan (Dry),0,1
+105,2022-02-01,February,1513,"Coconut (copra), palm kernel or babassu oil and their fractions",7,749677.05,8793.2,84.26,0,Harmattan (Dry),1,0
+106,2022-03-01,March,1513,"Coconut (copra), palm kernel or babassu oil and their fractions",3,566240.7000000001,749677.05,-0.24,1,Hot/Dry Season,3,0
+107,2022-04-01,April,1513,"Coconut (copra), palm kernel or babassu oil and their fractions",5,8609.48,566240.7000000001,-0.98,1,Major Rainy Season,1,0
+108,2022-05-01,May,1513,"Coconut (copra), palm kernel or babassu oil and their fractions",6,550554.65,8609.48,62.95,1,Major Rainy Season,1,1
+109,2022-06-01,June,1513,"Coconut (copra), palm kernel or babassu oil and their fractions",4,406171.44,550554.65,-0.26,1,Major Rainy Season,0,0
+110,2022-07-01,July,1513,"Coconut (copra), palm kernel or babassu oil and their fractions",4,956627.2,406171.44,1.36,0,Major Rainy Season,0,0
+111,2022-08-01,August,1513,"Coconut (copra), palm kernel or babassu oil and their fractions",2,4397.280000000001,956627.2,-1.0,1,Major Rainy Season,0,0
+112,2022-09-01,September,1513,"Coconut (copra), palm kernel or babassu oil and their fractions",3,1286.71,4397.280000000001,-0.71,1,Minor Rainy Season,8,1
+113,2022-10-01,October,1513,"Coconut (copra), palm kernel or babassu oil and their fractions",5,791.78,1286.71,-0.38,0,Minor Rainy Season,0,0
+114,2022-11-01,November,1513,"Coconut (copra), palm kernel or babassu oil and their fractions",6,36795.84,791.78,45.47,0,Minor Rainy Season,0,0
+115,2022-12-01,December,1513,"Coconut (copra), palm kernel or babassu oil and their fractions",4,8907.6,36795.84,-0.76,1,Harmattan (Dry),9,0
+116,2022-01-01,January,1515,Other fixed vegetable fats and oils (incl. jojoba oil) and fractions,15,1770164.66,2690931.0,-0.34,1,Harmattan (Dry),0,1
+117,2022-02-01,February,1515,Other fixed vegetable fats and oils (incl. jojoba oil) and fractions,16,616855.93,1770164.66,-0.65,0,Harmattan (Dry),1,0
+118,2022-03-01,March,1515,Other fixed vegetable fats and oils (incl. jojoba oil) and fractions,17,4153183.06,616855.93,5.73,1,Hot/Dry Season,3,0
+119,2022-04-01,April,1515,Other fixed vegetable fats and oils (incl. jojoba oil) and fractions,13,6912.28,4153183.06,-1.0,1,Major Rainy Season,1,0
+120,2022-05-01,May,1515,Other fixed vegetable fats and oils (incl. jojoba oil) and fractions,18,1299607.15,6912.28,187.01,1,Major Rainy Season,1,1
+121,2022-06-01,June,1515,Other fixed vegetable fats and oils (incl. jojoba oil) and fractions,16,297524.32999999996,1299607.15,-0.77,1,Major Rainy Season,0,0
+122,2022-07-01,July,1515,Other fixed vegetable fats and oils (incl. jojoba oil) and fractions,16,1416663.64,297524.32999999996,3.76,0,Major Rainy Season,0,0
+123,2022-08-01,August,1515,Other fixed vegetable fats and oils (incl. jojoba oil) and fractions,13,9028.02,1416663.64,-0.99,1,Major Rainy Season,0,0
+124,2022-09-01,September,1515,Other fixed vegetable fats and oils (incl. jojoba oil) and fractions,13,51418.08,9028.02,4.7,1,Minor Rainy Season,8,1
+125,2022-10-01,October,1515,Other fixed vegetable fats and oils (incl. jojoba oil) and fractions,13,35176.68,51418.08,-0.32,0,Minor Rainy Season,0,0
+126,2022-11-01,November,1515,Other fixed vegetable fats and oils (incl. jojoba oil) and fractions,11,489107.97,35176.68,12.9,0,Minor Rainy Season,0,0
+127,2022-12-01,December,1515,Other fixed vegetable fats and oils (incl. jojoba oil) and fractions,16,2690931.0,489107.97,4.5,1,Harmattan (Dry),9,0
+128,2022-01-01,January,1516,"Animal or vegetable fats and oils and fractions, hydrogenated, etc",8,12905.21,387349.59,-0.97,1,Harmattan (Dry),0,1
+129,2022-02-01,February,1516,"Animal or vegetable fats and oils and fractions, hydrogenated, etc",7,490884.95,12905.21,37.04,0,Harmattan (Dry),1,0
+130,2022-03-01,March,1516,"Animal or vegetable fats and oils and fractions, hydrogenated, etc",13,658386.99,490884.95,0.34,1,Hot/Dry Season,3,0
+131,2022-04-01,April,1516,"Animal or vegetable fats and oils and fractions, hydrogenated, etc",6,21678.07,658386.99,-0.97,1,Major Rainy Season,1,0
+132,2022-05-01,May,1516,"Animal or vegetable fats and oils and fractions, hydrogenated, etc",8,354898.69,21678.07,15.37,1,Major Rainy Season,1,1
+133,2022-06-01,June,1516,"Animal or vegetable fats and oils and fractions, hydrogenated, etc",5,1190.93,354898.69,-1.0,1,Major Rainy Season,0,0
+134,2022-07-01,July,1516,"Animal or vegetable fats and oils and fractions, hydrogenated, etc",5,571500.62,1190.93,478.88,0,Major Rainy Season,0,0
+135,2022-08-01,August,1516,"Animal or vegetable fats and oils and fractions, hydrogenated, etc",11,121202.64,571500.62,-0.79,1,Major Rainy Season,0,0
+136,2022-09-01,September,1516,"Animal or vegetable fats and oils and fractions, hydrogenated, etc",3,995.22,121202.64,-0.99,1,Minor Rainy Season,8,1
+137,2022-10-01,October,1516,"Animal or vegetable fats and oils and fractions, hydrogenated, etc",7,435804.94,995.22,436.9,0,Minor Rainy Season,0,0
+138,2022-11-01,November,1516,"Animal or vegetable fats and oils and fractions, hydrogenated, etc",13,272666.4,435804.94,-0.37,0,Minor Rainy Season,0,0
+139,2022-12-01,December,1516,"Animal or vegetable fats and oils and fractions, hydrogenated, etc",6,387349.59,272666.4,0.42,1,Harmattan (Dry),9,0
+140,2022-01-01,January,1517,"Margarine; edible preparations of animal or vegetable fats or oils, nes",15,5505940.699999999,5672618.13,-0.03,1,Harmattan (Dry),0,1
+141,2022-02-01,February,1517,"Margarine; edible preparations of animal or vegetable fats or oils, nes",15,3661522.58,5505940.699999999,-0.33,0,Harmattan (Dry),1,0
+142,2022-03-01,March,1517,"Margarine; edible preparations of animal or vegetable fats or oils, nes",19,2500737.26,3661522.58,-0.32,1,Hot/Dry Season,3,0
+143,2022-04-01,April,1517,"Margarine; edible preparations of animal or vegetable fats or oils, nes",17,3289711.53,2500737.26,0.32,1,Major Rainy Season,1,0
+144,2022-05-01,May,1517,"Margarine; edible preparations of animal or vegetable fats or oils, nes",14,2776949.96,3289711.53,-0.16,1,Major Rainy Season,1,1
+145,2022-06-01,June,1517,"Margarine; edible preparations of animal or vegetable fats or oils, nes",17,2266097.34,2776949.96,-0.18,1,Major Rainy Season,0,0
+146,2022-07-01,July,1517,"Margarine; edible preparations of animal or vegetable fats or oils, nes",19,3052329.5700000003,2266097.34,0.35,0,Major Rainy Season,0,0
+147,2022-08-01,August,1517,"Margarine; edible preparations of animal or vegetable fats or oils, nes",19,2777921.37,3052329.5700000003,-0.09,1,Major Rainy Season,0,0
+148,2022-09-01,September,1517,"Margarine; edible preparations of animal or vegetable fats or oils, nes",20,2261723.39,2777921.37,-0.19,1,Minor Rainy Season,8,1
+149,2022-10-01,October,1517,"Margarine; edible preparations of animal or vegetable fats or oils, nes",17,2063693.51,2261723.39,-0.09,0,Minor Rainy Season,0,0
+150,2022-11-01,November,1517,"Margarine; edible preparations of animal or vegetable fats or oils, nes",12,2315121.05,2063693.51,0.12,0,Minor Rainy Season,0,0
+151,2022-12-01,December,1517,"Margarine; edible preparations of animal or vegetable fats or oils, nes",19,5672618.13,2315121.05,1.45,1,Harmattan (Dry),9,0
+152,2022-01-01,January,1518,"Animal or vegetable fats and oils... chemically modified, nes",5,545.8199999999999,1783.26,-0.69,1,Harmattan (Dry),0,1
+153,2022-02-01,February,1518,"Animal or vegetable fats and oils... chemically modified, nes",4,1644.58,545.8199999999999,2.01,0,Harmattan (Dry),1,0
+154,2022-03-01,March,1518,"Animal or vegetable fats and oils... chemically modified, nes",5,1064.99,1644.58,-0.35,1,Hot/Dry Season,3,0
+155,2022-04-01,April,1518,"Animal or vegetable fats and oils... chemically modified, nes",4,608.88,1064.99,-0.43,1,Major Rainy Season,1,0
+156,2022-05-01,May,1518,"Animal or vegetable fats and oils... chemically modified, nes",4,2179.9300000000003,608.88,2.58,1,Major Rainy Season,1,1
+157,2022-06-01,June,1518,"Animal or vegetable fats and oils... chemically modified, nes",2,163.32,2179.9300000000003,-0.93,1,Major Rainy Season,0,0
+158,2022-07-01,July,1518,"Animal or vegetable fats and oils... chemically modified, nes",1,76.3,163.32,-0.53,0,Major Rainy Season,0,0
+159,2022-08-01,August,1518,"Animal or vegetable fats and oils... chemically modified, nes",3,1946.31,76.3,24.51,1,Major Rainy Season,0,0
+160,2022-09-01,September,1518,"Animal or vegetable fats and oils... chemically modified, nes",2,16604.23,1946.31,7.53,1,Minor Rainy Season,8,1
+161,2022-10-01,October,1518,"Animal or vegetable fats and oils... chemically modified, nes",2,67955.44,16604.23,3.09,0,Minor Rainy Season,0,0
+162,2022-11-01,November,1518,"Animal or vegetable fats and oils... chemically modified, nes",4,67323.15,67955.44,-0.01,0,Minor Rainy Season,0,0
+163,2022-12-01,December,1518,"Animal or vegetable fats and oils... chemically modified, nes",3,1783.26,67323.15,-0.97,1,Harmattan (Dry),9,0
+164,2022-01-01,January,1701,"Cane or beet sugar and chemically pure sucrose, in solid form",32,24676657.810000002,7194457.35,2.43,1,Harmattan (Dry),0,1
+165,2022-02-01,February,1701,"Cane or beet sugar and chemically pure sucrose, in solid form",31,24246621.27,24676657.810000002,-0.02,0,Harmattan (Dry),1,0
+166,2022-03-01,March,1701,"Cane or beet sugar and chemically pure sucrose, in solid form",30,15197234.41,24246621.27,-0.37,1,Hot/Dry Season,3,0
+167,2022-04-01,April,1701,"Cane or beet sugar and chemically pure sucrose, in solid form",35,11661450.38,15197234.41,-0.23,1,Major Rainy Season,1,0
+168,2022-05-01,May,1701,"Cane or beet sugar and chemically pure sucrose, in solid form",33,7032808.46,11661450.38,-0.4,1,Major Rainy Season,1,1
+169,2022-06-01,June,1701,"Cane or beet sugar and chemically pure sucrose, in solid form",32,17750746.2,7032808.46,1.52,1,Major Rainy Season,0,0
+170,2022-07-01,July,1701,"Cane or beet sugar and chemically pure sucrose, in solid form",30,3334015.3099999996,17750746.2,-0.81,0,Major Rainy Season,0,0
+171,2022-08-01,August,1701,"Cane or beet sugar and chemically pure sucrose, in solid form",38,18026379.7,3334015.3099999996,4.41,1,Major Rainy Season,0,0
+172,2022-09-01,September,1701,"Cane or beet sugar and chemically pure sucrose, in solid form",32,14528051.459999999,18026379.7,-0.19,1,Minor Rainy Season,8,1
+173,2022-10-01,October,1701,"Cane or beet sugar and chemically pure sucrose, in solid form",35,14538318.0,14528051.459999999,0.0,0,Minor Rainy Season,0,0
+174,2022-11-01,November,1701,"Cane or beet sugar and chemically pure sucrose, in solid form",33,5277160.46,14538318.0,-0.64,0,Minor Rainy Season,0,0
+175,2022-12-01,December,1701,"Cane or beet sugar and chemically pure sucrose, in solid form",40,7194457.35,5277160.46,0.36,1,Harmattan (Dry),9,0
+176,2022-01-01,January,1702,Other sugars in solid form; sugar syrups; artificial honey and caramel,20,1169588.81,853362.25,0.37,1,Harmattan (Dry),0,1
+177,2022-02-01,February,1702,Other sugars in solid form; sugar syrups; artificial honey and caramel,18,1347256.95,1169588.81,0.15,0,Harmattan (Dry),1,0
+178,2022-03-01,March,1702,Other sugars in solid form; sugar syrups; artificial honey and caramel,24,2747963.87,1347256.95,1.04,1,Hot/Dry Season,3,0
+179,2022-04-01,April,1702,Other sugars in solid form; sugar syrups; artificial honey and caramel,20,2057481.3900000001,2747963.87,-0.25,1,Major Rainy Season,1,0
+180,2022-05-01,May,1702,Other sugars in solid form; sugar syrups; artificial honey and caramel,18,2329706.9699999997,2057481.3900000001,0.13,1,Major Rainy Season,1,1
+181,2022-06-01,June,1702,Other sugars in solid form; sugar syrups; artificial honey and caramel,23,2594038.1900000004,2329706.9699999997,0.11,1,Major Rainy Season,0,0
+182,2022-07-01,July,1702,Other sugars in solid form; sugar syrups; artificial honey and caramel,23,2792485.32,2594038.1900000004,0.08,0,Major Rainy Season,0,0
+183,2022-08-01,August,1702,Other sugars in solid form; sugar syrups; artificial honey and caramel,23,1803619.82,2792485.32,-0.35,1,Major Rainy Season,0,0
+184,2022-09-01,September,1702,Other sugars in solid form; sugar syrups; artificial honey and caramel,26,654754.04,1803619.82,-0.64,1,Minor Rainy Season,8,1
+185,2022-10-01,October,1702,Other sugars in solid form; sugar syrups; artificial honey and caramel,15,779644.39,654754.04,0.19,0,Minor Rainy Season,0,0
+186,2022-11-01,November,1702,Other sugars in solid form; sugar syrups; artificial honey and caramel,17,547436.25,779644.39,-0.3,0,Minor Rainy Season,0,0
+187,2022-12-01,December,1702,Other sugars in solid form; sugar syrups; artificial honey and caramel,16,853362.25,547436.25,0.56,1,Harmattan (Dry),9,0
+188,2022-01-01,January,1703,Molasses resulting from the extraction or refining of sugar,1,479.48,9984.17,-0.95,1,Harmattan (Dry),0,1
+189,2022-02-01,February,1703,Molasses resulting from the extraction or refining of sugar,3,856.25,479.48,0.79,0,Harmattan (Dry),1,0
+190,2022-03-01,March,1703,Molasses resulting from the extraction or refining of sugar,2,541.16,856.25,-0.37,1,Hot/Dry Season,3,0
+191,2022-04-01,April,1703,Molasses resulting from the extraction or refining of sugar,2,609.52,541.16,0.13,1,Major Rainy Season,1,0
+192,2022-06-01,June,1703,Molasses resulting from the extraction or refining of sugar,2,995.06,609.52,0.63,1,Major Rainy Season,0,0
+193,2022-08-01,August,1703,Molasses resulting from the extraction or refining of sugar,1,115.25,995.06,-0.88,1,Major Rainy Season,0,0
+194,2022-09-01,September,1703,Molasses resulting from the extraction or refining of sugar,1,1074.73,115.25,8.33,1,Minor Rainy Season,8,1
+195,2022-11-01,November,1703,Molasses resulting from the extraction or refining of sugar,3,142.14000000000001,1074.73,-0.87,0,Minor Rainy Season,0,0
+196,2022-12-01,December,1703,Molasses resulting from the extraction or refining of sugar,3,9984.17,142.14000000000001,69.24,1,Harmattan (Dry),9,0
+197,2022-01-01,January,1704,"Sugar confectionery (incl. white chocolate), not containing cocoa",31,1418313.9400000002,1696823.5999999999,-0.16,1,Harmattan (Dry),0,1
+198,2022-02-01,February,1704,"Sugar confectionery (incl. white chocolate), not containing cocoa",33,1233204.1099999999,1418313.9400000002,-0.13,0,Harmattan (Dry),1,0
+199,2022-03-01,March,1704,"Sugar confectionery (incl. white chocolate), not containing cocoa",35,1289001.76,1233204.1099999999,0.05,1,Hot/Dry Season,3,0
+200,2022-04-01,April,1704,"Sugar confectionery (incl. white chocolate), not containing cocoa",31,1110681.2,1289001.76,-0.14,1,Major Rainy Season,1,0
+201,2022-05-01,May,1704,"Sugar confectionery (incl. white chocolate), not containing cocoa",32,914025.9,1110681.2,-0.18,1,Major Rainy Season,1,1
+202,2022-06-01,June,1704,"Sugar confectionery (incl. white chocolate), not containing cocoa",34,1297388.95,914025.9,0.42,1,Major Rainy Season,0,0
+203,2022-07-01,July,1704,"Sugar confectionery (incl. white chocolate), not containing cocoa",29,911188.37,1297388.95,-0.3,0,Major Rainy Season,0,0
+204,2022-08-01,August,1704,"Sugar confectionery (incl. white chocolate), not containing cocoa",37,1581324.18,911188.37,0.74,1,Major Rainy Season,0,0
+205,2022-09-01,September,1704,"Sugar confectionery (incl. white chocolate), not containing cocoa",31,1436371.9,1581324.18,-0.09,1,Minor Rainy Season,8,1
+206,2022-10-01,October,1704,"Sugar confectionery (incl. white chocolate), not containing cocoa",32,1383190.68,1436371.9,-0.04,0,Minor Rainy Season,0,0
+207,2022-11-01,November,1704,"Sugar confectionery (incl. white chocolate), not containing cocoa",42,1905329.04,1383190.68,0.38,0,Minor Rainy Season,0,0
+208,2022-12-01,December,1704,"Sugar confectionery (incl. white chocolate), not containing cocoa",31,1696823.5999999999,1905329.04,-0.11,1,Harmattan (Dry),9,0
+209,2022-01-01,January,1805,"Cocoa powder, not containing added sugar or other sweetening matter",7,1786.6299999999999,742.76,1.41,1,Harmattan (Dry),0,1
+210,2022-02-01,February,1805,"Cocoa powder, not containing added sugar or other sweetening matter",4,693.89,1786.6299999999999,-0.61,0,Harmattan (Dry),1,0
+211,2022-03-01,March,1805,"Cocoa powder, not containing added sugar or other sweetening matter",5,29028.059999999998,693.89,40.83,1,Hot/Dry Season,3,0
+212,2022-04-01,April,1805,"Cocoa powder, not containing added sugar or other sweetening matter",3,683.13,29028.059999999998,-0.98,1,Major Rainy Season,1,0
+213,2022-05-01,May,1805,"Cocoa powder, not containing added sugar or other sweetening matter",4,577.69,683.13,-0.15,1,Major Rainy Season,1,1
+214,2022-06-01,June,1805,"Cocoa powder, not containing added sugar or other sweetening matter",3,128.62,577.69,-0.78,1,Major Rainy Season,0,0
+215,2022-07-01,July,1805,"Cocoa powder, not containing added sugar or other sweetening matter",4,1251.23,128.62,8.73,0,Major Rainy Season,0,0
+216,2022-08-01,August,1805,"Cocoa powder, not containing added sugar or other sweetening matter",6,62917.840000000004,1251.23,49.28,1,Major Rainy Season,0,0
+217,2022-09-01,September,1805,"Cocoa powder, not containing added sugar or other sweetening matter",3,11811.0,62917.840000000004,-0.81,1,Minor Rainy Season,8,1
+218,2022-10-01,October,1805,"Cocoa powder, not containing added sugar or other sweetening matter",3,224.05,11811.0,-0.98,0,Minor Rainy Season,0,0
+219,2022-11-01,November,1805,"Cocoa powder, not containing added sugar or other sweetening matter",4,7607.69,224.05,32.96,0,Minor Rainy Season,0,0
+220,2022-12-01,December,1805,"Cocoa powder, not containing added sugar or other sweetening matter",6,742.76,7607.69,-0.9,1,Harmattan (Dry),9,0
+221,2022-01-01,January,1806,Chocolate and other food preparations containing cocoa,63,326938.03,212375.26,0.54,1,Harmattan (Dry),0,1
+222,2022-02-01,February,1806,Chocolate and other food preparations containing cocoa,64,267699.59,326938.03,-0.18,0,Harmattan (Dry),1,0
+223,2022-03-01,March,1806,Chocolate and other food preparations containing cocoa,53,344978.83,267699.59,0.29,1,Hot/Dry Season,3,0
+224,2022-04-01,April,1806,Chocolate and other food preparations containing cocoa,54,496335.38,344978.83,0.44,1,Major Rainy Season,1,0
+225,2022-05-01,May,1806,Chocolate and other food preparations containing cocoa,61,356309.52,496335.38,-0.28,1,Major Rainy Season,1,1
+226,2022-06-01,June,1806,Chocolate and other food preparations containing cocoa,55,89700.3,356309.52,-0.75,1,Major Rainy Season,0,0
+227,2022-07-01,July,1806,Chocolate and other food preparations containing cocoa,62,264214.16,89700.3,1.95,0,Major Rainy Season,0,0
+228,2022-08-01,August,1806,Chocolate and other food preparations containing cocoa,54,294135.08,264214.16,0.11,1,Major Rainy Season,0,0
+229,2022-09-01,September,1806,Chocolate and other food preparations containing cocoa,70,346401.14999999997,294135.08,0.18,1,Minor Rainy Season,8,1
+230,2022-10-01,October,1806,Chocolate and other food preparations containing cocoa,48,390008.64,346401.14999999997,0.13,0,Minor Rainy Season,0,0
+231,2022-11-01,November,1806,Chocolate and other food preparations containing cocoa,65,441696.24,390008.64,0.13,0,Minor Rainy Season,0,0
+232,2022-12-01,December,1806,Chocolate and other food preparations containing cocoa,53,212375.26,441696.24,-0.52,1,Harmattan (Dry),9,0
+233,2022-01-01,January,1902,"Pasta, such as spaghetti, macaroni, noodles, lasagne, etc; couscous",46,3470613.9,7439781.649999999,-0.53,1,Harmattan (Dry),0,1
+234,2022-02-01,February,1902,"Pasta, such as spaghetti, macaroni, noodles, lasagne, etc; couscous",49,4051595.5300000003,3470613.9,0.17,0,Harmattan (Dry),1,0
+235,2022-03-01,March,1902,"Pasta, such as spaghetti, macaroni, noodles, lasagne, etc; couscous",38,3328649.75,4051595.5300000003,-0.18,1,Hot/Dry Season,3,0
+236,2022-04-01,April,1902,"Pasta, such as spaghetti, macaroni, noodles, lasagne, etc; couscous",44,2144258.1599999997,3328649.75,-0.36,1,Major Rainy Season,1,0
+237,2022-05-01,May,1902,"Pasta, such as spaghetti, macaroni, noodles, lasagne, etc; couscous",43,2295626.19,2144258.1599999997,0.07,1,Major Rainy Season,1,1
+238,2022-06-01,June,1902,"Pasta, such as spaghetti, macaroni, noodles, lasagne, etc; couscous",46,3572020.74,2295626.19,0.56,1,Major Rainy Season,0,0
+239,2022-07-01,July,1902,"Pasta, such as spaghetti, macaroni, noodles, lasagne, etc; couscous",40,2704627.22,3572020.74,-0.24,0,Major Rainy Season,0,0
+240,2022-08-01,August,1902,"Pasta, such as spaghetti, macaroni, noodles, lasagne, etc; couscous",43,3239707.7,2704627.22,0.2,1,Major Rainy Season,0,0
+241,2022-09-01,September,1902,"Pasta, such as spaghetti, macaroni, noodles, lasagne, etc; couscous",40,2626082.87,3239707.7,-0.19,1,Minor Rainy Season,8,1
+242,2022-10-01,October,1902,"Pasta, such as spaghetti, macaroni, noodles, lasagne, etc; couscous",40,1512198.07,2626082.87,-0.42,0,Minor Rainy Season,0,0
+243,2022-11-01,November,1902,"Pasta, such as spaghetti, macaroni, noodles, lasagne, etc; couscous",55,2746646.01,1512198.07,0.82,0,Minor Rainy Season,0,0
+244,2022-12-01,December,1902,"Pasta, such as spaghetti, macaroni, noodles, lasagne, etc; couscous",49,7439781.649999999,2746646.01,1.71,1,Harmattan (Dry),9,0
+245,2022-01-01,January,2002,Tomatoes prepared or preserved otherwise than by vinegar or acetic acid,34,4333877.29,3884465.66,0.12,1,Harmattan (Dry),0,1
+246,2022-02-01,February,2002,Tomatoes prepared or preserved otherwise than by vinegar or acetic acid,46,4300450.33,4333877.29,-0.01,0,Harmattan (Dry),1,0
+247,2022-03-01,March,2002,Tomatoes prepared or preserved otherwise than by vinegar or acetic acid,33,4646072.69,4300450.33,0.08,1,Hot/Dry Season,3,0
+248,2022-04-01,April,2002,Tomatoes prepared or preserved otherwise than by vinegar or acetic acid,32,6182449.279999999,4646072.69,0.33,1,Major Rainy Season,1,0
+249,2022-05-01,May,2002,Tomatoes prepared or preserved otherwise than by vinegar or acetic acid,40,3657219.3600000003,6182449.279999999,-0.41,1,Major Rainy Season,1,1
+250,2022-06-01,June,2002,Tomatoes prepared or preserved otherwise than by vinegar or acetic acid,41,4045857.06,3657219.3600000003,0.11,1,Major Rainy Season,0,0
+251,2022-07-01,July,2002,Tomatoes prepared or preserved otherwise than by vinegar or acetic acid,39,3895215.9000000004,4045857.06,-0.04,0,Major Rainy Season,0,0
+252,2022-08-01,August,2002,Tomatoes prepared or preserved otherwise than by vinegar or acetic acid,37,1097121.05,3895215.9000000004,-0.72,1,Major Rainy Season,0,0
+253,2022-09-01,September,2002,Tomatoes prepared or preserved otherwise than by vinegar or acetic acid,32,606743.36,1097121.05,-0.45,1,Minor Rainy Season,8,1
+254,2022-10-01,October,2002,Tomatoes prepared or preserved otherwise than by vinegar or acetic acid,33,750639.75,606743.36,0.24,0,Minor Rainy Season,0,0
+255,2022-11-01,November,2002,Tomatoes prepared or preserved otherwise than by vinegar or acetic acid,35,3210391.3400000003,750639.75,3.28,0,Minor Rainy Season,0,0
+256,2022-12-01,December,2002,Tomatoes prepared or preserved otherwise than by vinegar or acetic acid,40,3884465.66,3210391.3400000003,0.21,1,Harmattan (Dry),9,0
+257,2022-01-01,January,2501,Salt and pure sodium chloride; sea water,20,182041.46,4024925.88,-0.95,1,Harmattan (Dry),0,1
+258,2022-02-01,February,2501,Salt and pure sodium chloride; sea water,9,45965.07,182041.46,-0.75,0,Harmattan (Dry),1,0
+259,2022-03-01,March,2501,Salt and pure sodium chloride; sea water,17,544597.8899999999,45965.07,10.85,1,Hot/Dry Season,3,0
+260,2022-04-01,April,2501,Salt and pure sodium chloride; sea water,17,355075.83,544597.8899999999,-0.35,1,Major Rainy Season,1,0
+261,2022-05-01,May,2501,Salt and pure sodium chloride; sea water,14,850346.98,355075.83,1.39,1,Major Rainy Season,1,1
+262,2022-06-01,June,2501,Salt and pure sodium chloride; sea water,20,463727.16000000003,850346.98,-0.45,1,Major Rainy Season,0,0
+263,2022-07-01,July,2501,Salt and pure sodium chloride; sea water,24,964713.2,463727.16000000003,1.08,0,Major Rainy Season,0,0
+264,2022-08-01,August,2501,Salt and pure sodium chloride; sea water,24,1090383.61,964713.2,0.13,1,Major Rainy Season,0,0
+265,2022-09-01,September,2501,Salt and pure sodium chloride; sea water,21,283987.05,1090383.61,-0.74,1,Minor Rainy Season,8,1
+266,2022-10-01,October,2501,Salt and pure sodium chloride; sea water,21,653405.89,283987.05,1.3,0,Minor Rainy Season,0,0
+267,2022-11-01,November,2501,Salt and pure sodium chloride; sea water,32,568239.61,653405.89,-0.13,0,Minor Rainy Season,0,0
+268,2022-12-01,December,2501,Salt and pure sodium chloride; sea water,24,4024925.88,568239.61,6.08,1,Harmattan (Dry),9,0
+269,2022-01-01,January,3304,"Beauty, make-up, skin-care (incl. suntan), manicure... preparations",63,1184753.63,976787.27,0.21,1,Harmattan (Dry),0,1
+270,2022-02-01,February,3304,"Beauty, make-up, skin-care (incl. suntan), manicure... preparations",54,1414471.93,1184753.63,0.19,0,Harmattan (Dry),1,0
+271,2022-03-01,March,3304,"Beauty, make-up, skin-care (incl. suntan), manicure... preparations",50,1218213.1500000001,1414471.93,-0.14,1,Hot/Dry Season,3,0
+272,2022-04-01,April,3304,"Beauty, make-up, skin-care (incl. suntan), manicure... preparations",54,1058049.98,1218213.1500000001,-0.13,1,Major Rainy Season,1,0
+273,2022-05-01,May,3304,"Beauty, make-up, skin-care (incl. suntan), manicure... preparations",51,1157851.9,1058049.98,0.09,1,Major Rainy Season,1,1
+274,2022-06-01,June,3304,"Beauty, make-up, skin-care (incl. suntan), manicure... preparations",60,992154.74,1157851.9,-0.14,1,Major Rainy Season,0,0
+275,2022-07-01,July,3304,"Beauty, make-up, skin-care (incl. suntan), manicure... preparations",53,819963.51,992154.74,-0.17,0,Major Rainy Season,0,0
+276,2022-08-01,August,3304,"Beauty, make-up, skin-care (incl. suntan), manicure... preparations",56,909564.37,819963.51,0.11,1,Major Rainy Season,0,0
+277,2022-09-01,September,3304,"Beauty, make-up, skin-care (incl. suntan), manicure... preparations",60,767522.18,909564.37,-0.16,1,Minor Rainy Season,8,1
+278,2022-10-01,October,3304,"Beauty, make-up, skin-care (incl. suntan), manicure... preparations",75,1214965.22,767522.18,0.58,0,Minor Rainy Season,0,0
+279,2022-11-01,November,3304,"Beauty, make-up, skin-care (incl. suntan), manicure... preparations",79,1188999.39,1214965.22,-0.02,0,Minor Rainy Season,0,0
+280,2022-12-01,December,3304,"Beauty, make-up, skin-care (incl. suntan), manicure... preparations",47,976787.27,1188999.39,-0.18,1,Harmattan (Dry),9,0
+281,2022-01-01,January,3306,Preparations for oral or dental hygiene (incl. denture fixative),28,2970015.54,2368772.19,0.25,1,Harmattan (Dry),0,1
+282,2022-02-01,February,3306,Preparations for oral or dental hygiene (incl. denture fixative),28,1986541.25,2970015.54,-0.33,0,Harmattan (Dry),1,0
+283,2022-03-01,March,3306,Preparations for oral or dental hygiene (incl. denture fixative),20,1041589.49,1986541.25,-0.48,1,Hot/Dry Season,3,0
+284,2022-04-01,April,3306,Preparations for oral or dental hygiene (incl. denture fixative),30,1865116.9000000001,1041589.49,0.79,1,Major Rainy Season,1,0
+285,2022-05-01,May,3306,Preparations for oral or dental hygiene (incl. denture fixative),26,2953892.3,1865116.9000000001,0.58,1,Major Rainy Season,1,1
+286,2022-06-01,June,3306,Preparations for oral or dental hygiene (incl. denture fixative),24,1483147.92,2953892.3,-0.5,1,Major Rainy Season,0,0
+287,2022-07-01,July,3306,Preparations for oral or dental hygiene (incl. denture fixative),30,1821712.1,1483147.92,0.23,0,Major Rainy Season,0,0
+288,2022-08-01,August,3306,Preparations for oral or dental hygiene (incl. denture fixative),29,1034687.8200000001,1821712.1,-0.43,1,Major Rainy Season,0,0
+289,2022-09-01,September,3306,Preparations for oral or dental hygiene (incl. denture fixative),24,1060136.06,1034687.8200000001,0.02,1,Minor Rainy Season,8,1
+290,2022-10-01,October,3306,Preparations for oral or dental hygiene (incl. denture fixative),24,1556255.2599999998,1060136.06,0.47,0,Minor Rainy Season,0,0
+291,2022-11-01,November,3306,Preparations for oral or dental hygiene (incl. denture fixative),23,1111558.47,1556255.2599999998,-0.29,0,Minor Rainy Season,0,0
+292,2022-12-01,December,3306,Preparations for oral or dental hygiene (incl. denture fixative),24,2368772.19,1111558.47,1.13,1,Harmattan (Dry),9,0
+293,2022-01-01,January,3401,"Soap; organic surface-active products in bars, etc; paper with soap,etc",109,2660432.79,2509519.1799999997,0.06,1,Harmattan (Dry),0,1
+294,2022-02-01,February,3401,"Soap; organic surface-active products in bars, etc; paper with soap,etc",99,2362738.27,2660432.79,-0.11,0,Harmattan (Dry),1,0
+295,2022-03-01,March,3401,"Soap; organic surface-active products in bars, etc; paper with soap,etc",90,3304818.69,2362738.27,0.4,1,Hot/Dry Season,3,0
+296,2022-04-01,April,3401,"Soap; organic surface-active products in bars, etc; paper with soap,etc",103,3232074.2199999997,3304818.69,-0.02,1,Major Rainy Season,1,0
+297,2022-05-01,May,3401,"Soap; organic surface-active products in bars, etc; paper with soap,etc",88,2910469.76,3232074.2199999997,-0.1,1,Major Rainy Season,1,1
+298,2022-06-01,June,3401,"Soap; organic surface-active products in bars, etc; paper with soap,etc",107,4158510.47,2910469.76,0.43,1,Major Rainy Season,0,0
+299,2022-07-01,July,3401,"Soap; organic surface-active products in bars, etc; paper with soap,etc",97,2231901.97,4158510.47,-0.46,0,Major Rainy Season,0,0
+300,2022-08-01,August,3401,"Soap; organic surface-active products in bars, etc; paper with soap,etc",110,2907943.8,2231901.97,0.3,1,Major Rainy Season,0,0
+301,2022-09-01,September,3401,"Soap; organic surface-active products in bars, etc; paper with soap,etc",96,1512179.8199999998,2907943.8,-0.48,1,Minor Rainy Season,8,1
+302,2022-10-01,October,3401,"Soap; organic surface-active products in bars, etc; paper with soap,etc",94,1745959.0,1512179.8199999998,0.15,0,Minor Rainy Season,0,0
+303,2022-11-01,November,3401,"Soap; organic surface-active products in bars, etc; paper with soap,etc",106,2382360.07,1745959.0,0.36,0,Minor Rainy Season,0,0
+304,2022-12-01,December,3401,"Soap; organic surface-active products in bars, etc; paper with soap,etc",97,2509519.1799999997,2382360.07,0.05,1,Harmattan (Dry),9,0
+305,2022-01-01,January,3402,"Non-soap surface-active agents; washing preparations, nes",77,9647917.4,3426167.89,1.82,1,Harmattan (Dry),0,1
+306,2022-02-01,February,3402,"Non-soap surface-active agents; washing preparations, nes",68,9767113.33,9647917.4,0.01,0,Harmattan (Dry),1,0
+307,2022-03-01,March,3402,"Non-soap surface-active agents; washing preparations, nes",69,18469713.53,9767113.33,0.89,1,Hot/Dry Season,3,0
+308,2022-04-01,April,3402,"Non-soap surface-active agents; washing preparations, nes",73,11049875.89,18469713.53,-0.4,1,Major Rainy Season,1,0
+309,2022-05-01,May,3402,"Non-soap surface-active agents; washing preparations, nes",77,10919822.07,11049875.89,-0.01,1,Major Rainy Season,1,1
+310,2022-06-01,June,3402,"Non-soap surface-active agents; washing preparations, nes",90,5486489.4,10919822.07,-0.5,1,Major Rainy Season,0,0
+311,2022-07-01,July,3402,"Non-soap surface-active agents; washing preparations, nes",75,4435737.95,5486489.4,-0.19,0,Major Rainy Season,0,0
+312,2022-08-01,August,3402,"Non-soap surface-active agents; washing preparations, nes",75,7894988.83,4435737.95,0.78,1,Major Rainy Season,0,0
+313,2022-09-01,September,3402,"Non-soap surface-active agents; washing preparations, nes",71,5789575.94,7894988.83,-0.27,1,Minor Rainy Season,8,1
+314,2022-10-01,October,3402,"Non-soap surface-active agents; washing preparations, nes",74,2003256.38,5789575.94,-0.65,0,Minor Rainy Season,0,0
+315,2022-11-01,November,3402,"Non-soap surface-active agents; washing preparations, nes",66,3725126.6599999997,2003256.38,0.86,0,Minor Rainy Season,0,0
+316,2022-12-01,December,3402,"Non-soap surface-active agents; washing preparations, nes",80,3426167.89,3725126.6599999997,-0.08,1,Harmattan (Dry),9,0
